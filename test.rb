@@ -1,1 +1,1 @@
-puts "go fuck yourself";
+puts "go frick yourself";
